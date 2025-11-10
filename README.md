@@ -1,2 +1,2 @@
 # FuenteNC
-FuentesNC son simb olos para trabajar con numeros orientados
+FuentesNC son simbolos numericos  para trabajar con numeros orientados
