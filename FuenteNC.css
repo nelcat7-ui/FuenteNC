@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Untitled1';
+    src: url('Untitled1.eot');
+    src: url('Untitled1.eot?#iefix') format('embedded-opentype'),
+        url('Untitled1.woff2') format('woff2'),
+        url('Untitled1.woff') format('woff'),
+        url('Untitled1.ttf') format('truetype'),
+        url('Untitled1.svg#Untitled1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
